@@ -24,4 +24,8 @@ This project uses Mode’s tutorial database to analyze customer behavior, sales
 
 ## ✅ Deliverables  
 - `queries.sql` → file containing all SQL queries used.  
-- `README.md` → project summary, business questions, and insights.  
+- `README.md` → project summary, business questions, and insights.
+
+## 🗝️ Keys
+- 'o' = Orders
+- 'u' = User
