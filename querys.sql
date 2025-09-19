@@ -1,3 +1,5 @@
+--Keys: u = user, o = orders
+
 -- 1. Top 5 customers by total sales
 SELECT u.first_name,
        u.last_name,
@@ -34,3 +36,4 @@ JOIN products p
 GROUP BY p.category
 ORDER BY total_quantity_sold DESC
 LIMIT 5;
+
